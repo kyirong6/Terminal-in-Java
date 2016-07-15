@@ -1,1 +1,4 @@
-# Terminal-in-Java
+#####Replicating some of Termina's functionalities in Java
+
+
+
