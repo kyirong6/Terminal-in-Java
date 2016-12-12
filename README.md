@@ -1,4 +1,4 @@
-#####Replicating some of Termina's functionalities in Java
+#####Replicating some of Terminal's functionalities in Java
 
 
 
